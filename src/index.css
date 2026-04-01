@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add your global styles below */
+
+html,
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
